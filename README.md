@@ -20,8 +20,7 @@
   <li>Download model and file use.py</li>
   <li>Open file and choice image</li>
     <b>image_to_classification = r"" #your image to classification</b>
-  <li>Open the Terminal/CMD</li>
-    <p>Write:</p>
+  <li>Open the Terminal/CMD and write command:</li>
     <b>pip install python3.9</b> <br>
     <b>python3.9 -m pip install tensorflow2.9.1</b> <br>
     <b>python3.9 -m pip install numpy1.22.4</b> <br>
