@@ -19,7 +19,7 @@
 <ol>
   <li>Download model and file use.py</li>
   <li>Open file and choice image</li>
-    <b>image_to_classification = r"" #your image to classification</b>
+    <b>image_to_classification = r"037.jpg" #your image to classification</b>
   <li>Open the Terminal/CMD and write command:</li>
     <b>pip install python3.9</b> <br>
     <b>python3.9 -m pip install tensorflow2.9.1</b> <br>
@@ -29,4 +29,8 @@
     <b>python3.9 -m pip install scipy</b> <br>
     <b>python3.9 use.py</b><br>
     <h3>Good luck! 🤗</h3> 
+  Work file:
+  ![image](https://github.com/lilykprogramming/Thot/assets/141013264/9b76bb70-e85d-4ab6-ad0d-3edb066159c5)
+  Image Test:
+  https://github.com/lilykprogramming/Thot/blob/thot/exam/037.jpg
 </ol>
