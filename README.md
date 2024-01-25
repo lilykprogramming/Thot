@@ -15,3 +15,19 @@
   <h4>Libraries</h4>
   <li><p>tensorflow,keras,numpy,PIL, time,tkinter</p></li>
 </ul>
+<h4>USE MODEL AI</h4>
+<ol>
+  <li>Download model and file use.py</li>
+  <li>Open file and choice image</li>
+    <b>image_to_classification = r"" #your image to classification</b>
+  <li>Open the Terminal/CMD</li>
+    <p>Write:</p>
+    <b>pip install python3.9</b> <br>
+    <b>python3.9 -m pip install tensorflow2.9.1</b> <br>
+    <b>python3.9 -m pip install numpy1.22.4</b> <br>
+    <b>python3.9 -m pip install tensorboard</b> <br>
+    <b>python3.9 -m pip install pillow</b> <br>
+    <b>python3.9 -m pip install scipy</b> <br>
+    <b>python3.9 use.py</b><br>
+    <h3>Good luck! 🤗</h3> 
+</ol>
