@@ -1,0 +1,10 @@
+numerek 0 odpowiada klasie 0
+numerek 1 odpowiada klasie 1
+numerek 2 odpowiada klasie 2
+numerek 3 odpowiada klasie 3
+numerek 4 odpowiada klasie 4
+numerek 5 odpowiada klasie 5
+numerek 6 odpowiada klasie 6
+numerek 7 odpowiada klasie 7
+numerek 8 odpowiada klasie 8
+numerek 9 odpowiada klasie 9
