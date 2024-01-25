@@ -30,7 +30,7 @@
     <b>python3.9 use.py</b><br>
     <h3>Good luck! 🤗</h3> 
   Work file: <br>
-  ![image](https://github.com/lilykprogramming/Thot/assets/141013264/9b76bb70-e85d-4ab6-ad0d-3edb066159c5) <br>
+  <img src="https://github.com/lilykprogramming/Thot/assets/141013264/9b76bb70-e85d-4ab6-ad0d-3edb066159c5"/> <br>
   Image Test: <br>
-  https://github.com/lilykprogramming/Thot/blob/thot/exam/037.jpg
+  <img src="https://github.com/lilykprogramming/Thot/blob/thot/exam/037.jpg"/>
 </ol>
